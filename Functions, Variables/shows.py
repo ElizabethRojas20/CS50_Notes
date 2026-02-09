@@ -14,6 +14,6 @@ def main():
     for show in SHOWS:
         cleanes_shows.append(show.strip().title())
     
-    print(", ".join(cleanes_shows))
+    print(", ".join(cleanes_shows)) #how to join elements
 
 main()
