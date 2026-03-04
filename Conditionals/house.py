@@ -11,7 +11,7 @@ else:
     print("Who?")
 
 
-#second case
+#second case, using match
 match name:
     case "Harry":
         print("Gryffindor")
@@ -25,7 +25,7 @@ match name:
         print("Who?")
 
 
-#third case
+#third case, one line
 match name:
     case "Harry" | "Hermione" | "Ron":
         print("Gryffindor")

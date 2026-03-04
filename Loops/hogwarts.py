@@ -1,4 +1,5 @@
 students = ["Hermione", "Harry", "Ron"]
+houses = ["Gryffindor", "Gryffindor", "Gryffindor", "Slytherin"]
 
 print(students[0]) #locate an element in a list
 print(students[1])
